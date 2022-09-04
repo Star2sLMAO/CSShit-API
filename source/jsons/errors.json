@@ -1,0 +1,11 @@
+{
+    "com.star2s.csshit.apikey": {
+        "error": "com.star2s.cssshit.apikey_notfound",
+        "message": "The API key you have inputted was not correct."
+    },
+    
+    "com.star2s.csshit.notfound": {
+        "error": "com.star2s.cssshit.page_notfound",
+        "message": "The endpoint you are looking for is not found"
+    }
+}
